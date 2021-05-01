@@ -35,3 +35,6 @@ Route::get('/zain', function () {
 Route::get('/projects', function () {
     return view('projects');
 });
+
+
+//coba nambah file untuk git
